@@ -2,9 +2,11 @@
 
 # TinyDice
 
-A submission to Tinytapeouet, implementing an electronic dice using the Wokwiki interface.
+A submission to Tinytapeout, implementing an electronic dice using the Wokwi interface.
 
-original readme below the line.
+[Wokwi project]/https://wokwi.com/projects/341315210433266259)
+
+original readme of the template below the line.
 ---------------------------------------------------------
 
 Go to https://tinytapeout.com for instructions!

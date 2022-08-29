@@ -1,5 +1,12 @@
 ![](../../workflows/wokwi/badge.svg)
 
+# TinyDice
+
+A submission to Tinytapeouet, implementing an electronic dice using the Wokwiki interface.
+
+original readme below the line.
+---------------------------------------------------------
+
 Go to https://tinytapeout.com for instructions!
 
 # How to change the Wokwi project

@@ -8,7 +8,7 @@ A submission to Tinytapeout, implementing an electronic dice with minimized circ
 
 [Architectural background](https://hackaday.io/project/183938-circuit-golf-electronic-dice-edition/log/203107-005-dice3904-8-minimal-transistor-based-dice)
 
-[Wokwi project](/https://wokwi.com/projects/341315210433266259)
+[Wokwi project](https://wokwi.com/projects/341315210433266259)
 
 ![grafik](https://user-images.githubusercontent.com/4086406/188271563-668208bf-615a-499b-ac5a-c2e9ddfcdc3d.png)
 
